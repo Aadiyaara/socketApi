@@ -1,0 +1,22 @@
+{
+  "name": "socketapi",
+  "version": "0.1.0",
+  "description": "not a socket",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Aadiyaara/socketApi.git"
+  },
+  "author": "kul stuff",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Aadiyaara/socketApi/issues"
+  },
+  "homepage": "https://github.com/Aadiyaara/socketApi#readme",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
+}
